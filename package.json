@@ -1,0 +1,17 @@
+{
+  "name": "opensea-bid-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toptal126@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.2",
+    "opensea-js": "^4.0.7",
+    "wyvern-schemas": "^0.14.1"
+  }
+}
